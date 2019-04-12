@@ -5,12 +5,6 @@
 - [CALM: A starter pack for Azure DevOps](#calm-a-starter-pack-for-azure-devops)
     - [What is this?](#what-is-this)
     - [Quick start](#quick-start)
-    - [ARM Naming Conventions](#arm-naming-conventions)
-    - [Default naming conventions](#default-naming-conventions)
-        - [environmentAffix](#environmentaffix)
-        - [role](#role)
-        - [resource](#resource)
-    - [ARM Templates](#arm-templates)
     - [Contributors](#contributors)
     - [License](#license)
 
