@@ -55,7 +55,7 @@ az group deployment create --name testdeployment --resource-group foo-bar-d-rg -
 
 ## Contributors
 
-- [Jan Tourlamain] (https://github.com/jtourlamain "Jan Tourlamain GitHub")
+- [Jan Tourlamain](https://github.com/jtourlamain "Jan Tourlamain GitHub")
 
 ## License
 
